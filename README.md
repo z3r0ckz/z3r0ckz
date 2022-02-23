@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @z3r0ckz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on interesting web projects
+- 🌱 I’m currently learning web development, and RPA Development
 - 📫 How to reach me ...
 
 <!---
