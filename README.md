@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @z3r0ckz
 - ☠️ I’m currently learning 
--     🟡Web Development
+  🟡Web Development
 -         JS   
 -         React
--     🔵RPA Development 🤖
+ 🔵RPA Development 🤖
 -         UiPath    
 -         Rocketbot 🚀
 -         BluePrism 💠
 -         AutomationAnywhere  
--     🟢UI/UX
+  🟢UI/UX
 -         AdobeXD
 -         Figma
--     🟣DB
+  🟣DB
 
 
 <!---
