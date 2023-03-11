@@ -9,12 +9,11 @@
  🔵RPA Development 🤖
 -         UiPath    
 -         Rocketbot 🚀
--         BluePrism 💠
 -         AutomationAnywhere  
   🟢UI/UX
 -         AdobeXD
 -         Figma
-  🟣DB
+  
 
 
 <!---
