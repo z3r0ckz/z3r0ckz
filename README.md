@@ -24,13 +24,14 @@
     <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszXpkOXGaV2AJ1fJ0X5QT8YpS_yR_rhacAg&s" alt="Robot Framework" width="40" height="40" />
     </a>
+    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+      <img src="https://images.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="40" height="40" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40" />
+    </a>
   </div>
 </div>
-
-
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=z3r0ckz&theme=blueberry&hide_border=true)
