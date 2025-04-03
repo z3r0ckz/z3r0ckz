@@ -13,19 +13,19 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40" />
     </a>
     <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-      <img src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo-small.png" alt="Uipath" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/8/80/UiPath_2019_Corporate_Logo.png" alt="Uipath" width="40" height="40" />
     </a>
     <a href="https://www.automationanywhere.com/la" target="_blank" rel="noreferrer">
-      <img src="https://seekvectorlogo.com/wp-content/uploads/2022/01/automation-anywhere-vector-logo-2022-small.png" alt="Automation Anywhere" width="40" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Automation_Anywhere_Logo.svg/1200px-Automation_Anywhere_Logo.svg.png" alt="Automation Anywhere" width="40" height="40" />
     </a>
     <a href="https://rocketbot.com/es/" target="_blank" rel="noreferrer">
-      <img src="https://yt3.googleusercontent.com/SHC8ka3qJJz6YoBys0jm3-xvT_nelGiyceiA0zFSPEbhF6X4tHXvWD0ZHliPdcEf-ix3dTbI_6E=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBRN2VsDYfpgIOV2ae_tEg87fdfHmkz90afQ&s" width="40" height="40" />
     </a>
     <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszXpkOXGaV2AJ1fJ0X5QT8YpS_yR_rhacAg&s" alt="Robot Framework" width="40" height="40" />
     </a>
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-      <img src="https://images.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="Cucumber" width="40" height="40" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbrNREIovPu3i1F1LjZs_We7Mq9OC86YU1A&s" width="40" height="40" />
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40" />
